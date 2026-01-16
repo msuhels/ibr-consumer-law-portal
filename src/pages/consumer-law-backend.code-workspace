@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../consumer-law-backend"
+		}
+	],
+	"extensions": {
+		"recommendations": [
+			"dsznajder.es7-react-js-snippets"
+		]
+	}
+}

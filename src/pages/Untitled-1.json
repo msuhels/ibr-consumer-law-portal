@@ -1,0 +1,55 @@
+{
+    "customerData": {
+        "id": "cus_Og75Q6q31i2AxE",
+        "object": "customer",
+        "address": {
+            "city": "Brothers",
+            "country": "US",
+            "line1": "27 Fredrick Ave",
+            "line2": null,
+            "postal_code": "97712",
+            "state": "CA"
+        },
+        "balance": 0,
+        "created": 1695294947,
+        "currency": null,
+        "default_source": null,
+        "delinquent": false,
+        "description": null,
+        "discount": null,
+        "email": "ayan@ibrinfotech.com",
+        "invoice_prefix": "45CD0FEE",
+        "invoice_settings": {
+            "custom_fields": null,
+            "default_payment_method": null,
+            "footer": null,
+            "rendering_options": null
+        },
+        "livemode": false,
+        "metadata": {},
+        "name": "ayan",
+        "next_invoice_sequence": 1,
+        "phone": null,
+        "preferred_locales": [],
+        "shipping": {
+            "address": {
+                "city": "Brothers",
+                "country": "US",
+                "line1": "27 Fredrick Ave",
+                "line2": null,
+                "postal_code": "97712",
+                "state": "CA"
+            },
+            "name": "{{CUSTOMER_NAME}}",
+            "phone": null
+        },
+        "tax_exempt": "none",
+        "test_clock": null
+    }
+}
+
+
+{
+    "subscriptionId": "sub_1NsldZSAdwKsqafAgT2ogfJA",
+    "clientSecret": "pi_3NsldZSAdwKsqafA15TYrXAq_secret_xKDixPC8hsTMLa8I9QXRkzYQx"
+}
